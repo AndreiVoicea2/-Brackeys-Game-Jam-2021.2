@@ -22,7 +22,7 @@ Project made in one week and published for the "Brackeys Game Jam 2021.2" contes
 
 ### Built With
 
-Program developed in Unity 2021 with the help of Visual Studio 2019 written in the c# language.
+Program developed in Unity 2021 with the help of Visual Studio 2019, written in the c# language.
 
 ## Getting Started
 
